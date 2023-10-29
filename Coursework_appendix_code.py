@@ -4,8 +4,6 @@ import os
 import random
 #import required modules
 
-#loool this is a branch
-#hifgfgf
 
 vec = pygame.math.Vector2
 #allows for shorthand to be used to save time
