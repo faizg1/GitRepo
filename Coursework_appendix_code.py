@@ -3,7 +3,8 @@ import sys
 import os
 import random
 #import required modules
-# yup making changes on my branch whooooop
+
+
 vec = pygame.math.Vector2
 #allows for shorthand to be used to save time
 
