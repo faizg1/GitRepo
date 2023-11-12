@@ -2,6 +2,12 @@ import pygame
 import sys
 import os
 import random
+vcvc
+vcvc
+vecvc
+vecvc
+v
+cvc
 #import required modules
 
 #waaaaaaaah push
